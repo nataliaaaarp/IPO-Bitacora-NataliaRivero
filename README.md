@@ -34,4 +34,52 @@ En clase nos puesto un video para entender mejor los conceptos y en el video se 
 
 Con esto comprobamos que tenemos visión estereoscópica, tenemos dos ojos con visiones distintas que se fusionan y nos proporcionan una visión en 3D que creamos, esta visión  tridimensionales la profundidad, nosotros realmente por cada ojo vemos en 2D.
 
-Procesamos información de manera óptima a lo que estamos acostumbrados
+Procesamos información de manera óptima a lo que estamos acostumbrados.
+
+  trabajo en casa-->
+
+
+
+# Clase 3
+09/ 03/ 2026
+
+En la clase empezamos hablando sobre la idea de la regla de producción que es una estructura de conocimineto que consta de dos partes: Si condicion Entonces acción. 
+La idea principal de la clase es SOAR que es una arquitectura cognitiva que ayuda a comprender la cognición reflexiva. Un ejemplo es el juego de las torres de hanoi que tiene a nivel mental unos objetivos, subojetivos, estados, operador y un espacio de problema. Toda esa informacion se almacena y va navegando los espacios del problema  desde el estado inicial al final.
+
+GOMS es otra familia de modelos muy similar a SOAR, que lo que significa basicamente es: objetivos, operadores, metodos y reglas de seleccion. Se propone un objetivo general como el ejemplo de un editor de texto, y dentro de el tenemos subojetivos como mover texto, borrar texto, insertar texto..., etc.
+
+
+// Pregunta de examen 
+LA proximidad en el diseño de interfaces gráficas de usuario afecta a la usabilidad ¿ Con cuál de los siguientes conceptos NO está relacionado?
+A. Accesibilidad
+B. Percepcion 
+C.CRAP
+D. GESTALT.
+La proximidad es algo fundamental por lo que la opcion correcta es A. Accesibilidad
+Nuestro cerebra a normalizado una serie de patrones q nos lleva a una solucion, por ejemplo dos puntos y una ralla y todos vemos que es una cara. Todo esto tiene que ver con la psicologia cognitiva.
+
+Otro modelo teorico es el de Plamer y Rock para la organización preceptual, por ejemplo  en una foto en blanco y negro tenemos que hacer una diferenciacion entre lo que es la figura y el fondo, normalmente tendemos a ver la figura a la mancha oscura. La percepcion visual tiene que ver con la organizacion de objetos.
+Algunos de los principios de agrupacion son:
+  .Proximidad
+  - Similitud
+  - Destino común
+  - Buena continuacion
+  - Cierre
+  - Region comun
+  - Conexion entre elementos
+  - Sincronia
+
+Un punto importante es la compatibilidad e incompatibilidad de la organizacion perceptual y la tarea del usuario. Por ejemplo el boton de buscar hay que ponerlo abajo a la derecha porque es como estamos acostumbrados y si lo pones en otro lado puede generar confusion.
+
+  trabajo en casa--> Trabajo parejas Coger una pagina web compleja y organizarla en partes en cajas 
+  -Coger aplicaciones q tengamos y analizarlas como estan hechos y como estan organizados
+
+
+
+
+
+
+
+
+
+
