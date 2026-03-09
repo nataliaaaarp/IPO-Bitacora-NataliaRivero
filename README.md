@@ -36,7 +36,45 @@ Con esto comprobamos que tenemos visión estereoscópica, tenemos dos ojos con v
 
 Procesamos información de manera óptima a lo que estamos acostumbrados.
 
-  trabajo en casa-->
+  trabajo en casa--> hay que hacer un Field Report en el que hay que analizar una interacción cotidiana dentro de una aplicación móvil para identificar posibles problemas de usabilidad.
+  -Aplicación elegida: WhatsApp
+  -Tarea analizada: Enviar la ubicación actual a un contacto.
+
+  7 huellas cognitivas de Norman:
+  
+  -1.GOAL (objetivo): El usuario quiere enviar su ubicación actual a un amigo por WhatsApp para que pueda encontrarlo.
+  
+  -2. INTENTION (intención): El usuario decide usar WhatsApp para compartir su ubicación en el chat.
+  
+  -3. SPECIFY ACTION (especificar la acción): El usuario abre el chat del contacto y busca cómo compartir la ubicación. En la interfaz observa: el iicono de clip 
+  (adjuntar), espacio de mensaje, icono de cámara, icono de micrófono. Entonces el usuario intuye que debe usar el clip.
+  
+  -4. EXECUTE (Ejecutar la acción): El usuario toca el icono de clip y aparece un menú con opciones:
+              ·Documento
+              ·Cámara
+              ·Galería
+              ·Audio
+              ·Ubicación
+              ·Contacto
+
+Luego selecciona Ubicación.
+  -5. PERCEIVE SYSTEM STATE (Percibir el estado del sistema):WhatsApp abre el mapa mostrando: su ubicación actual, la opción “Enviar mi ubicación actual”, la opción “Compartir ubicación en tiempo real”.
+  
+  -6. INTERPRET(Interpretar el estado): EL usuario entiende que puede enviar solo el punto actual o compartir su ubicación en tiempo real durante cierto tiempo.
+  
+  -7. EVALUATE (Evaluar resultado): Después de enviar la ubicación, aparece un mapa en el chat, confirmando que el contacto recibió la información. Así el usuario verifica que la acción se completó correctamente.
+  
+
+  PUNTO DE FRICCIÓN (El tropiezo): 
+  
+  Problema detectado. Algunos usuarios no saben dónde está la opción de enviar ubicación, porque está escondida dentro del menú de adjuntar archivos (clip).
+  
+  Momento del problema: Durante el paso 3 de especificar la acción. El usuario puede pensar que la ubicación debería estar en: el mapa del teléfono, Google Maps o un botón directo en el chat.
+  
+  El fallo sería de interpretación ya que el usuario no entiende dónde está la función dentro de la interfaz, aunque la aplicación sí la ofrece.
+  
+  Para mejorar propongo agregar un acceso más directo dentro del chat, por ejemplo:
+  📍 Botón de ubicación rápida en la pantalla princial del chat.
 
 
 
