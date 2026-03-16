@@ -115,6 +115,49 @@ Un punto importante es la compatibilidad e incompatibilidad de la organizacion p
 
 
 
+# Clase 4
+16/03/2026
+
+Factores humanos
+Memoria sensorial-> La atención es el proceso de concentración mental sobre un conjunto de estímulos, por ejemplo, el uso de los colores complementarios sirve para llamar la atención del usuario.
+La pre atención es una herramienta fundamental en el diseño de interfaces, ante diferentes sentidos recibiendo estímulos tengo que recibir en orden.
+Nos ha puesto un video en el que un mago con unos billetes que empieza con unos billetes de una cantidad de 10 dólares y al final son de 100, debido a centrarnos en los billetes no nos hemos dando cuenta que detrás habían cambiado todo el fondo, el sombrero y todo esto es lo que llamamos ceguera de cambio.
+
+Debido al consumo de energía tenemos muchos estímulos y no nos damos cuenta de todo solo de lo que consideramos más importante.
+Toda interfaz tiene animaciones, cuando pulso abrir una aplicación se genera una transición de abrir y así con cada interacción que haga el usuario.
+En el video se veía otro ejemplo donde se apreciaba unos clientes en un mostrador y le atienden dos dependientes distintos y muchos ni se dan cuenta.
+A veces se mezclan sentidos y se tiene que hacer una tarea y si pedimos estar atentos a dos cosas es casi seguro que hagamos las tareas mal.
+
+La atención es muy compleja, pero podemos intervenir, la atención actúa como un filtro de los estímulos. Todos los estímulos pasan por unos sensores, memoria sensorial, memoria de trabajo, memoria a largo plazo.
+La memoria de trabajo es el conjunto de símbolos activos en un momento determinado a los que estamos prestando atención, y que por tanto podemos manipular mediante control voluntario. Por ejemplo, antes cuando la gente iba a sacar dinero a muchos se les olvidaba recoger la tarjeta porque ellos iban a sacar dinero no a recoger la tarjeta entonces una vez cumplían el propósito, se olvidaban de sacar la tarjeta. 
+
+trabajo en casa--> como a través de la memoria el usuario olvida, yerra y abandona. hay interfaces de recuerdo y otras de reconocimiento.
+
+Auditoría de Memoria – App Bancaria
+Aplicación analizada
+
+Aplicación: Unicaja Banco
+Tipo: Aplicación bancaria móvil.
+
+Objetivo:Realizar un análisis forense de memoria para detectar si la aplicación almacena información sensible en la memoria RAM mientras está en ejecución.
+Herramientas utilizadas
+  -ADB
+  -Frida
+  -Volatility
+
+Procedimiento:
+  -Ejecutar la aplicación y realizar acciones básicas (consultar saldo o movimientos).
+  -Identificar el proceso de la aplicación en el sistema.
+  -Realizar un dump de memoria del proceso.
+  -Analizar el contenido buscando datos sensibles como usuarios, IBAN o tokens de sesión.
+
+Resultados:
+
+En el análisis se detectaron algunos datos temporales en memoria, como información de sesión y datos parciales de cuenta. No se encontraron contraseñas almacenadas en texto plano.
+
+Conclusión:
+
+La aplicación Unicaja Banco maneja adecuadamente las credenciales, pero algunos datos de sesión permanecen temporalmente en memoria. Se recomienda mejorar la limpieza de memoria para reducir posibles riesgos de seguridad.
 
 
 
