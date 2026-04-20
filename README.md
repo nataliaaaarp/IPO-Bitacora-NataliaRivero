@@ -161,6 +161,55 @@ La aplicación Unicaja Banco maneja adecuadamente las credenciales, pero algunos
 
 
 
+# Clase 5
+23/ 03/ 2026
+
+
+
+# Clase 6
+13/ 04/ 2026
+
+Actualización de perfil: de “usuario” a “personas”. El termino usuario reduce a la persona a un mero operador del sistema. Pero operamos en ecosistema.
+
+Los pilares de DCU: foco temprano al comprender quienes son y que intentan lograr antes de diseñar, medida empírica (recolectar evidencias no opiniones), diseño iterativo. Durante el proceso se van corrigiendo errores, no es un proceso lineal.
+El modelo del doble diamante divide el espacio del problema y el espacio de la solución.
+
+Integración de procesos agiles UX una de las alternativas es el protocolo de los 12 pasos, que es un bucle constante de custodia de la experiencia del usuario. Se divide en 3 zonas de investigación, análisis de pruebas e interrogatorio. Algunos apartados de la primera fase son: Descubrimiento, análisis de competencia, definición de audiencia, escenarios de uso…etc.
+
+Un concepto importante es la perfilación psicológica: Un ingeniero no es el usuario final. El código no siente empatía, por ello la página tiene que tener una interfaz fácil de entender para todos
+
+
+
+# Clase 7
+20/ 04/ 2026
+
+Los métodos se pueden clasificar utilizando distintos medios.
+
+Usabilidad es la medida en la que un producto se puede usar por determinados usuarios para conseguir objetivos específicos con efectividad, eficiencia y satisfacción. Debe haber una posibilidad de cuantificar.
+
+-Que algo sea efectivo quiere decir que es algo que cumple el objetivo.
+
+-Eficiente es conseguir el objetivo en el mejor tiempo posible, que necesita para poder completarlo.
+
+-La satisfacción no se mide fácilmente, es subjetivo se puede ir preguntado al usuario que le ha parecido.
+
+Lo primero para evaluar es tener claro que quiero conseguir. Un sistema es usable si los usuarios pueden hacer rápido y fácil las tareas. Un desarrollador no puede decir nunca si es usable o no, deben ser los usuarios los que deciden.
+
+La usabilidad tiene varios beneficios como la reducción de los costes de producción. Al no haber hecho pruebas de usabilidad tienen consecuencias de costes de uso.
+
+Aplicando los métodos de evaluación tenemos mejores productos es algo básico a la hora de diseñar un sistema, sin evaluación es imposible conocer si cumple las expectativas de los usuarios. Los métodos de evaluación se pueden clasificar:
+
+-Según el lugar (laboratorio, en un entorno natural del usuario)
+
+-Según el tipo de técnica (Inspección, Indagación, test)
+
+-Según el grado de automatización (Automáticos, manuales)
+
+-según el tipo de participantes (Con usuarios, Sin usuarios)
+
+Cualquier prueba de evaluación debe llevar un plan de evaluación fijando objetivos, asignando un responsable, ajustando al presupuesto económico y temporal, y documentar los resultados.
+
+La evaluación por inspección: unos evaluadores inspeccionan o examinan aspectos relacionado con la usabilidad de la interfaz. Métodos más importantes de inspección: evaluación heurística, recorridos cognitivos, inspección de estándares
 
 
 
