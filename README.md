@@ -213,3 +213,31 @@ La evaluación por inspección: unos evaluadores inspeccionan o examinan aspecto
 
 
 
+# Clase 8
+27/ 04/ 2026
+
+Tenemosque tener claro que queremos evaluar, ya que no es simplemente probar el sottware al final y ya. Es importante grabar las expresiones faciales de la persona, y con toda esa informacion debo hacer un analisis si conseguimos los efectos buscados.
+
+El objetivo es recolectar datos realaes para dejar de suponer y asegurar que el sistema adapta el contexto físico, social y organizativo del usuario real. ES importante el prototipo en papel.
+
+Pruebas biológicas (Métricas):
+-Efectividad: El sistema permite al usuario lograr el objetivo.
+-Eficiencia: El esfuerzo requerido
+-Seguridad: Protección contra el desastre que previene estados irreversibles
+
+Por ejemplo al hacer el prototipo en papel es facil que se te olviden cosas como al fallar la contraseña poner contraseña incorrecta. Por eso depende de lo que queramos hacer hay q hacer un prototipo más detallado o no.
+Dependiendo de las metricas podemos ver si nos coloca en el minimo aceptable o en el objetivo.
+
+Hay dos tipo de evaluacion que son la formativa y la sumativa.
+En la evaluación formativa, durante el proceso se va refinando  el diseño corrigiendo el rumbo. Y en la sumativa al final del dessarrollo dicta una sentencia sobre la calidad y cumplimiento de estándares en n tono ya definitivo.
+
+Algunos métodos de indagación son la sal de interrrogatorios, la evaluación predictiva, la vigilancia y el soplo en la calle.
+
+Las técnicas de inspección experta va haciendo un recorrido cognitivo simulando paso a paso. Los marcos de evaluación el más importante es el protocolo D.E.C.I.D.E se dtermina los objetivos ¿Por que estamos investigando esto?
+La evaluación heurística ppara la practica necesita al menos 3 personas que actuen como expertos y evaluen la usabilidad, hay que hacer una parte cualitativa y una cuantitativa. Respecto al recorrido cognitivo obligamos al testigo a confesar y este verbaliza sus pensamientos, dudas y frustaciones en tiempo real. Se puede hacer un interrrogatorio constructivo o grabar y luego comentar con el usuario poruqe penso eso.
+
+//hacer una evaluacion heuristica de una herramienta conocida ej: Spotify
+
+
+
+
