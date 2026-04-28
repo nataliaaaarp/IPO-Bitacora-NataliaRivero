@@ -216,27 +216,55 @@ La evaluación por inspección: unos evaluadores inspeccionan o examinan aspecto
 # Clase 8
 27/ 04/ 2026
 
-Tenemosque tener claro que queremos evaluar, ya que no es simplemente probar el sottware al final y ya. Es importante grabar las expresiones faciales de la persona, y con toda esa informacion debo hacer un analisis si conseguimos los efectos buscados.
+Tenemos que tener claro que queremos evaluar, ya que no es simplemente probar el software al final y ya. Es importante grabar las expresiones faciales de la persona, y con toda esa información se debe hacer un análisis, sí conseguimos los efectos buscados.
 
-El objetivo es recolectar datos realaes para dejar de suponer y asegurar que el sistema adapta el contexto físico, social y organizativo del usuario real. ES importante el prototipo en papel.
+El objetivo es recolectar datos reales para dejar de suponer y asegurar que el sistema adapta el contexto físico, social y organizativo del usuario real. Es importante el prototipo en papel.
 
 Pruebas biológicas (Métricas):
+
 -Efectividad: El sistema permite al usuario lograr el objetivo.
--Eficiencia: El esfuerzo requerido
--Seguridad: Protección contra el desastre que previene estados irreversibles
 
-Por ejemplo al hacer el prototipo en papel es facil que se te olviden cosas como al fallar la contraseña poner contraseña incorrecta. Por eso depende de lo que queramos hacer hay q hacer un prototipo más detallado o no.
-Dependiendo de las metricas podemos ver si nos coloca en el minimo aceptable o en el objetivo.
+-Eficiencia: El esfuerzo requerido.
 
-Hay dos tipo de evaluacion que son la formativa y la sumativa.
-En la evaluación formativa, durante el proceso se va refinando  el diseño corrigiendo el rumbo. Y en la sumativa al final del dessarrollo dicta una sentencia sobre la calidad y cumplimiento de estándares en n tono ya definitivo.
+-Seguridad: Protección contra el desastre que previene estados irreversibles.
 
-Algunos métodos de indagación son la sal de interrrogatorios, la evaluación predictiva, la vigilancia y el soplo en la calle.
 
-Las técnicas de inspección experta va haciendo un recorrido cognitivo simulando paso a paso. Los marcos de evaluación el más importante es el protocolo D.E.C.I.D.E se dtermina los objetivos ¿Por que estamos investigando esto?
-La evaluación heurística ppara la practica necesita al menos 3 personas que actuen como expertos y evaluen la usabilidad, hay que hacer una parte cualitativa y una cuantitativa. Respecto al recorrido cognitivo obligamos al testigo a confesar y este verbaliza sus pensamientos, dudas y frustaciones en tiempo real. Se puede hacer un interrrogatorio constructivo o grabar y luego comentar con el usuario poruqe penso eso.
+Por ejemplo, al hacer el prototipo en papel es fácil que se te olviden cosas como al fallar la contraseña que aparezca un mensaje de contraseña incorrecta. Por eso depende de lo que queramos hacer hay q hacer un prototipo más detallado o no.
+Dependiendo de las métricas podemos ver si nos coloca en el mínimo aceptable o en el objetivo.
 
-//hacer una evaluacion heuristica de una herramienta conocida ej: Spotify
+Hay dos tipos de evaluación que son la formativa y la sumativa.
+En la evaluación formativa, durante el proceso se va refinando el diseño corrigiendo el rumbo. Y en la sumativa al final del desarrollo dicta una sentencia sobre la calidad y cumplimiento de estándares en un tono ya definitivo.
+
+Algunos métodos de indagación son la sala de interrogatorios, la evaluación predictiva, la vigilancia y el soplo en la calle.
+
+Las técnicas de inspección experta van haciendo un recorrido cognitivo simulando paso a paso. Los marcos de evaluación el más importante es el protocolo D.E.C.I.D.E se determina los objetivos ¿Por qué estamos investigando esto?
+La evaluación heurística para la practica necesita al menos 3 personas que actúen como expertos y evalúen la usabilidad, hay que hacer una parte cualitativa y una cuantitativa. Respecto al recorrido cognitivo obligamos al testigo a confesar y este verbaliza sus pensamientos, dudas y frustraciones en tiempo real. Se puede hacer un interrogatorio constructivo o grabar y luego comentar con el usuario porque pensó eso.
+
+
+//EVALUACIÓN HEURÍSTICA DE YOUTUBE
+
+1. Visibilidad del estado del sistema: YouTube destaca por ofrecer una retroalimentación continua durante la reproducción de vídeos mediante barras de progreso y notificaciones en tiempo real sobre comentarios, suscripciones o likes. Sin embargo, durante la subida de vídeos no se ofrecen estimaciones claras del tiempo restante ni del estado exacto del proceso. 
+
+2. Correspondencia entre el sistema y el mundo real: la plataforma utiliza un lenguaje cercano y familiar para la mayoría de acciones básicas. En cambio, algunos conceptos propios de YouTube como “Shorts” o “Miembros del canal” no son tan evidentes para usuarios novatos, lo que sugiere la necesidad de micro explicaciones.
+
+3. Control y libertad del usuario, YouTube permite eliminar historial, cancelar subidas o modificar múltiples configuraciones de reproducción. Sin embargo, existe un problema relevante relacionado con el control del algoritmo de recomendaciones. Aunque el usuario puede indicar que un contenido no le interesa el impacto de estas acciones no es evidente.
+
+4. Consistencia y estándares: se cumple de forma notable, ya que la interfaz mantiene patrones visuales y de interacción coherentes. Aun así, se observan diferencias entre las versiones de televisión, móvil y escritorio, especialmente en la gestión de listas lo que puede generar cierta confusión al cambiar de dispositivo.
+
+5. Prevención de errores: la plataforma incluye confirmaciones para acciones críticas como eliminar vídeos o avisos de copyright al subir contenido. Sin embargo, resulta relativamente fácil publicar vídeos en modo público por error, debido a la confusión frecuente entre los estados público, oculto y privado.
+
+6. Reconocimiento antes que recuerdo: YouTube facilita el uso mediante historial, búsquedas recientes y recomendaciones personalizadas. Sin embargo, el panel de YouTube Studio presenta una elevada complejidad para creadores novatos, con demasiadas opciones y una estructura poco intuitiva.
+
+7. Flexibilidad y eficiencia de uso: es elevada gracias a los atajos de teclado, el control de velocidad y la personalización de la reproducción. Sin embargo, muchos usuarios desconocen la existencia de estos atajos, lo que limita su aprovechamiento.
+
+8. Diseño estético y minimalista: presenta una contradicción clara: mientras que el reproductor es limpio y sencillo, la página de inicio muestra una sobrecarga de información con recomendaciones infinitas, Shorts, directos, anuncios y publicaciones de comunidad. 
+
+9. Recuperación ante errores: los mensajes técnicos como avisos de copyright o problemas de conexión son claros, pero los procesos de desmonetización o penalizaciones para creadores resultan poco comprensibles y generan frustración.
+
+10. Ayuda y documentación: dispone de un centro de ayuda muy completo y abundante material formativo. Sin embargo, la ayuda contextual integrada en la interfaz es limitada, lo que dificulta encontrar asistencia en el momento exacto en que surge el problema.
+
+
+
 
 
 
