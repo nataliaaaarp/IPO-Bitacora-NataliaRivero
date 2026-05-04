@@ -265,7 +265,20 @@ La evaluación heurística para la practica necesita al menos 3 personas que act
 
 
 
+# Clase 9
+04/ 05/ 2026
 
+Los desarrolladores van a desarrollar sistemas con los nuevos paradigmas, ya que cada vez más las interfaces clásicas van cambiando y evolucionando. Por ejemplo la desaparición de la pantalla. Sale un dispositivo que escucha y observa y planifica todo, este dispositivo es la prueba de la interfaz pervasiva.
 
+La idea del trabajo cooperativo y mundos virtuales es importante la edición colavorativa hay que tener en cuenta quien esta editando y el que, estamos cambiando la forma de trabajo, casi cualquier cosa se puede hacer simultanemente y cada uno esta enfocado en una parte pero el resultado es final por eso tenemos que tener en cuenta como esta afectando.
+
+Lo que antes llamabamoos agentes conversacionales y son capaces de entender todo tipo de iteraciones, entienden el lenguaje y son capaces de atender cualquier petición. De hecho ahora casi cualquier prototipo tiene el botón de voz para preguntar. Y cada vez mas se va a ir sustituyendo y todas las cosas que antes yo hacia con teclado y ratón cada vez va a ser más facil hacerlo sin esos elementos.
+
+Computación afectivaa la noción de lo que antes hacia algoritmicamnete para resolver un problema y haora la computación va a tener en cuenta las emociones de las personas, por ejemplo, el robot perrito para los abuelos para quitarles ansiedad. Esa capacidad de las maquinas para saber lo que estamos sintiendo pueden usarse para el bien o para el mal, lo cual es un problema critico.
+
+LAs interfaces BCI estamos ya en un camino de interpretar la actividad cerebral y actuar en base a ello. Hay varios niveles: perifericos, interfaces cerebro-ordenador y metodo endovascular. El sistema multiagente puede planiificar cosas las cuales no soy consciente por eso pasamos de una interfaz conversacional a una delegativa. Se borra la idea de aprender a utilizaar el sistema. La IA ya no es una commodity; la experiencia del usuario es ahora el gran diferenciador económico y social.
+Los nuevos patrones oscuros manipulanutilizando datos biometricos en tiempo real .
+
+//
 
 
