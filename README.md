@@ -162,11 +162,6 @@ La aplicación Unicaja Banco maneja adecuadamente las credenciales, pero algunos
 
 
 # Clase 5
-23/ 03/ 2026
-
-
-
-# Clase 6
 13/ 04/ 2026
 
 Actualización de perfil: de “usuario” a “personas”. El termino usuario reduce a la persona a un mero operador del sistema. Pero operamos en ecosistema.
@@ -180,7 +175,7 @@ Un concepto importante es la perfilación psicológica: Un ingeniero no es el us
 
 
 
-# Clase 7
+# Clase 6
 20/ 04/ 2026
 
 Los métodos se pueden clasificar utilizando distintos medios.
@@ -213,7 +208,7 @@ La evaluación por inspección: unos evaluadores inspeccionan o examinan aspecto
 
 
 
-# Clase 8
+# Clase 7
 27/ 04/ 2026
 
 Tenemos que tener claro que queremos evaluar, ya que no es simplemente probar el software al final y ya. Es importante grabar las expresiones faciales de la persona, y con toda esa información se debe hacer un análisis, sí conseguimos los efectos buscados.
@@ -265,20 +260,61 @@ La evaluación heurística para la practica necesita al menos 3 personas que act
 
 
 
-# Clase 9
+# Clase 8
 04/ 05/ 2026
+Los desarrolladores van a desarrollar sistemas con los nuevos paradigmas, ya que cada vez más las interfaces clásicas van cambiando y evolucionando. Por ejemplo, la desaparición de la pantalla. Sale un dispositivo que escucha y observa y planifica todo, este dispositivo es la prueba de la interfaz pervasiva.
 
-Los desarrolladores van a desarrollar sistemas con los nuevos paradigmas, ya que cada vez más las interfaces clásicas van cambiando y evolucionando. Por ejemplo la desaparición de la pantalla. Sale un dispositivo que escucha y observa y planifica todo, este dispositivo es la prueba de la interfaz pervasiva.
+La idea del trabajo cooperativo y mundos virtuales es importante la edición colaborativa hay que tener en cuenta quien está editando y el que, estamos cambiando la forma de trabajo, casi cualquier cosa se puede hacer simultáneamente y cada uno está enfocado en una parte, pero el resultado es final por eso tenemos que tener en cuenta como está afectando.
 
-La idea del trabajo cooperativo y mundos virtuales es importante la edición colavorativa hay que tener en cuenta quien esta editando y el que, estamos cambiando la forma de trabajo, casi cualquier cosa se puede hacer simultanemente y cada uno esta enfocado en una parte pero el resultado es final por eso tenemos que tener en cuenta como esta afectando.
+Lo que antes llamábamos agentes conversacionales y son capaces de entender todo tipo de iteraciones, entienden el lenguaje y son capaces de atender cualquier petición. De hecho, ahora casi cualquier prototipo tiene el botón de voz para preguntar. Y cada vez más se va a ir sustituyendo y todas las cosas que antes yo hacía con teclado y ratón cada vez va a ser más fácil hacerlo sin esos elementos.
 
-Lo que antes llamabamoos agentes conversacionales y son capaces de entender todo tipo de iteraciones, entienden el lenguaje y son capaces de atender cualquier petición. De hecho ahora casi cualquier prototipo tiene el botón de voz para preguntar. Y cada vez mas se va a ir sustituyendo y todas las cosas que antes yo hacia con teclado y ratón cada vez va a ser más facil hacerlo sin esos elementos.
+Computación afectiva la noción de lo que antes hacia algorítmicamente para resolver un problema y ahora la computación va a tener en cuenta las emociones de las personas, por ejemplo, el robot perrito para los abuelos para quitarles ansiedad. Esa capacidad de las máquinas para saber lo que estamos sintiendo pueden usarse para el bien o para el mal, lo cual es un problema crítico.
 
-Computación afectivaa la noción de lo que antes hacia algoritmicamnete para resolver un problema y haora la computación va a tener en cuenta las emociones de las personas, por ejemplo, el robot perrito para los abuelos para quitarles ansiedad. Esa capacidad de las maquinas para saber lo que estamos sintiendo pueden usarse para el bien o para el mal, lo cual es un problema critico.
+Las interfaces BCI estamos ya en un camino de interpretar la actividad cerebral y actuar en base a ello. Hay varios niveles: periféricos, interfaces cerebro-ordenador y método endovascular. El sistema multiagente puede planificar cosas las cuales no soy consciente por eso pasamos de una interfaz conversacional a una delegativa. Se borra la idea de aprender a utilizar el sistema. La IA ya no es una commodity; la experiencia del usuario es ahora el gran diferenciador económico y social.
 
-LAs interfaces BCI estamos ya en un camino de interpretar la actividad cerebral y actuar en base a ello. Hay varios niveles: perifericos, interfaces cerebro-ordenador y metodo endovascular. El sistema multiagente puede planiificar cosas las cuales no soy consciente por eso pasamos de una interfaz conversacional a una delegativa. Se borra la idea de aprender a utilizaar el sistema. La IA ya no es una commodity; la experiencia del usuario es ahora el gran diferenciador económico y social.
-Los nuevos patrones oscuros manipulanutilizando datos biometricos en tiempo real .
+Los nuevos patrones oscuros manipulan utilizando datos biométricos en tiempo real .
 
-//
+//EJERCICIO
+La tarea = organizar un viaje.
+1.
+Proceso:
+
+      -Buscar vuelos 
+      -Buscar hotel
+      -Comparar precios
+      -Coordinar fechas
+      -Mirar transporte
+      -Revisar clima
+      -Crear itinerario
+El tiempo empleado normalmente es entre unas horas o días.
+
+2️.
+GenUI 
+
+El usuario quiero escaparse 3 días en marzo a algún sitio europeo barato y con buen tiempo.
+
+Restricciones:
+
+      duración = 3 días
+      mes = marzo
+      origen = ciudad usuario
+      presupuesto = bajo
+      clima = >18°C
+      zona = Europa
+
+El sistema genera propuesta completa:
+
+“Te propongo Lisboa del 14 al 17 de marzo: Vuelo directo 120€, Hotel céntrico 210€, Itinerario sugerido listo, ¿Reservo todo?”
+
+Botones:
+
+      Reservar todo
+      Ajustar presupuesto
+      Cambiar destino
+      
+3.
+Impacto forense
+
+Peresenta una inmediatez brutal ya que tiene la planificación completa en 30 segundos. Pero se perdería la parte divertida de planear viajes, la sensación de descubrimiento y la comparación manual de opciones.
 
 
