@@ -276,6 +276,7 @@ Los nuevos patrones oscuros manipulan utilizando datos biométricos en tiempo re
 
 //EJERCICIO
 La tarea = organizar un viaje.
+
 1.
 Proceso:
 
